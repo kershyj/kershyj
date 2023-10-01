@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kershyj
+- 👀 I’m interested in Python, algorithms and coding in general
+- 🌱 I’m currently learning Python 2/ 3
